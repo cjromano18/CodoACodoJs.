@@ -28,20 +28,3 @@ footer {
 .navbar-expand-lg{
     background-color: #353a40;
 }
-.buenosaires {
-    text-align: justify;
-}
-
-
-.carousel-caption {
-    text-align: right;
-}
-
-.btn-success{
-    background-color: #29a744;
-}
-
-#enviar {
-    background-color:#96c93e;
-    color: white;
-}
